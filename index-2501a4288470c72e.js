@@ -140,7 +140,7 @@
                                                     }),
                                                 ],
                                             }),
-                                        ],
+                                        ],                                                                                                       
                                     }),
                                     (0, a.jsx)(h.E.img, { draggable: !1, initial: { opacity: 0 }, whileInView: { opacity: 100 }, transition: { duration: 1, delay: 0.6, ease: [0.39, 0.21, 0.12, 0.96] }, viewport: { amount: 0.2, once: !0 }, className: "relative rounded-full lg:h-72 lg:w-72 h-0 w-0 border-2 border-blue-700 xl:-translate-y-14 lg:translate-y-6 mr-8 -translate-y-0 lg:scale-100 scale-0", alt: "image", src: "https://cdn.discordapp.com/attachments/1120770690702921819/1153563230409596999/image.png" }),
                                 ],
@@ -172,7 +172,7 @@
                                         className: "flex flex-row flex-wrap gap-2 mt-2 rounded-md w-fit xl:px-0 px-8",
                                         children: [
                                             (0, a.jsx)(g, { href: "https://discord.com", src: "https://cdn.discordapp.com/attachments/1120770619177455751/1155280411782565918/dragons.png", delay: 0.1, rounded: !0 }),
-                                            (0, a.jsx)(g, { href: "https://www.javascript.com/", src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", delay: 0.2, rounded: !0 }),
+                                            (0, a.jsx)(g, { href: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", src: "https://cdn.discordapp.com/attachments/1120770619177455751/1155282105111150642/anguish.webp", delay: 0.2, rounded: !0 }),
                                             (0, a.jsx)(g, { href: "https://html.com/html5/", src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", delay: 0.3 }),
                                             (0, a.jsx)(g, { href: "https://www.w3schools.com/css/", src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", delay: 0.4 }),
                                             (0, a.jsx)(g, { href: "https://nodejs.org/", src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg", delay: 0.5 }),
