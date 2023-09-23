@@ -171,7 +171,7 @@
                                     (0, a.jsxs)("ul", {
                                         className: "flex flex-row flex-wrap gap-2 mt-2 rounded-md w-fit xl:px-0 px-8",
                                         children: [
-                                            (0, a.jsx)(g, { href: "https://autohotkey.com", src: "https://lh3.googleusercontent.com/-7kvIZ2s4rVM/YNy1FF76ogI/AAAAAAAADro/1MRErSeDqsM5qm_vxiVfs0lkmJlsGk_4ACJEEGAsYHg/s0/2021-06-30.png", delay: 0.1, rounded: !0 }),
+                                            (0, a.jsx)(g, { href: "https://discord.com", src: "https://cdn.discordapp.com/attachments/1120770619177455751/1155280411782565918/dragons.png", delay: 0.1, rounded: !0 }),
                                             (0, a.jsx)(g, { href: "https://www.javascript.com/", src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", delay: 0.2, rounded: !0 }),
                                             (0, a.jsx)(g, { href: "https://html.com/html5/", src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", delay: 0.3 }),
                                             (0, a.jsx)(g, { href: "https://www.w3schools.com/css/", src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", delay: 0.4 }),
