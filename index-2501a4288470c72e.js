@@ -26,7 +26,7 @@
                 c = s.n(r);
             function d(e) {
                 let { clickScroll: t, clickScroll2: s, pageLoad: n } = e;
-                return (0, a.jsx)(a.Fragment, { children: (0, a.jsx)("header", { className: "relative", children: (0, a.jsxs)("nav", { className: "".concat(n ? "animate-fade-in-top" : "opacity-0", " fixed flex w-full z-50 bg-slate-950/80 p-4 sm:px-24 px-4 justify-between items-center"), children: [(0, a.jsx)(c(), { href: "/", children: (0, a.jsx)("img", { draggable: !1, className: "h-12 w-12 rounded-full", alt: "image", src: "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/379549952_3456696667926147_3419350994202075430_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=kyvURy2tktAAX_mhj8C&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzE5NTc2MjEzNTg5NTI0MDA5Mw%3D%3D.2-ccb7-5&oh=00_AfCEi3NQc6r5sB5pKdhrC_O6R37jGZRfT617MXEAVT9gcQ&oe=650E4D71&_nc_sid=ee9879" }) }), (0, a.jsxs)("ul", { className: "flex flex-row gap-x-2", children: [(0, a.jsx)("li", { children: (0, a.jsx)("button", { className: "text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md", onClick: t, children: "About Me" }) }), (0, a.jsx)("li", { children: (0, a.jsx)("button", { className: "text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md", onClick: s, children: "Projects" }) })] })] }) }) });
+                return (0, a.jsx)(a.Fragment, { children: (0, a.jsx)("header", { className: "relative", children: (0, a.jsxs)("nav", { className: "".concat(n ? "animate-fade-in-top" : "opacity-0", " fixed flex w-full z-50 bg-slate-950/80 p-4 sm:px-24 px-4 justify-between items-center"), children: [(0, a.jsx)(c(), { href: "/", children: (0, a.jsx)("img", { draggable: !1, className: "h-12 w-12 rounded-full", alt: "image", src: "https://cdn.discordapp.com/attachments/880236237988974602/1155268894320234567/new_discord_pic_2.png" }) }), (0, a.jsxs)("ul", { className: "flex flex-row gap-x-2", children: [(0, a.jsx)("li", { children: (0, a.jsx)("button", { className: "text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md", onClick: t, children: "About Me" }) }), (0, a.jsx)("li", { children: (0, a.jsx)("button", { className: "text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md", onClick: s, children: "Projects" }) })] })] }) }) });
             }
             var h = s(9090);
             function p(e) {
@@ -46,7 +46,7 @@
                                     (0, a.jsxs)("div", {
                                         className: "flex flex-col gap-y-1 px-8 w-full xl:py-0 lg:py-32 md:py-40 sm:py-48 min-[425px]:py-56 py-60",
                                         children: [
-                                            (0, a.jsxs)("h1", { className: "".concat(t ? "animate-fadeIn" : "opacity-0", " text-white font-bold sm:text-6xl text-4xl font-kanit"), children: ["Hey, We're", (0, a.jsx)("span", { className: "duration-1000 ".concat(s), children: "  Control-Alt-Defeat" })] }),
+                                            (0, a.jsxs)("h1", { className: "".concat(t ? "animate-fadeIn" : "opacity-0", " text-white font-bold sm:text-6xl text-4xl font-kanit"), children: ["Hey, We're", (0, a.jsx)("span", { className: "duration-1000 ".concat(s), children: "  Ctrl-Alt-Defeat" })] }),
                                             (0, a.jsx)(h.E.p, { initial: { transform: "translateX(-20px)", opacity: 0 }, whileInView: { transform: "translateX(0)", opacity: 100 }, transition: { duration: 1, delay: 0.1, ease: [0.39, 0.21, 0.12, 0.96] }, viewport: { amount: 0.2, once: !0 }, className: "text-white font-semibold sm:text-2xl text-xl font-kanit", children: "We are a FIRST team based in the bay area" }),
                                             (0, a.jsxs)("ul", {
                                                 className: "flex flex-row flex-wrap w-fit gap-2",
@@ -142,7 +142,7 @@
                                             }),
                                         ],
                                     }),
-                                    (0, a.jsx)(h.E.img, { draggable: !1, initial: { opacity: 0 }, whileInView: { opacity: 100 }, transition: { duration: 1, delay: 0.6, ease: [0.39, 0.21, 0.12, 0.96] }, viewport: { amount: 0.2, once: !0 }, className: "relative rounded-full lg:h-72 lg:w-72 h-0 w-0 border-2 border-blue-700 xl:-translate-y-14 lg:translate-y-6 mr-8 -translate-y-0 lg:scale-100 scale-0", alt: "image", src: "https://r2.e-z.host/0a585a51-c22e-4d3e-804a-efc077a2d38c/lrzsis9d.jpg" }),
+                                    (0, a.jsx)(h.E.img, { draggable: !1, initial: { opacity: 0 }, whileInView: { opacity: 100 }, transition: { duration: 1, delay: 0.6, ease: [0.39, 0.21, 0.12, 0.96] }, viewport: { amount: 0.2, once: !0 }, className: "relative rounded-full lg:h-72 lg:w-72 h-0 w-0 border-2 border-blue-700 xl:-translate-y-14 lg:translate-y-6 mr-8 -translate-y-0 lg:scale-100 scale-0", alt: "image", src: "https://cdn.discordapp.com/attachments/1120770690702921819/1153563230409596999/image.png" }),
                                 ],
                             }),
                         }),
@@ -166,7 +166,7 @@
                             (0, a.jsxs)("div", {
                                 className: "flex flex-col max-w-6xl w-full mx-auto ",
                                 children: [
-                                    (0, a.jsx)("div", { className: "bg-slate-900 self-center w-3/4 rounded-md overflow-hidden border-2 border-blue-700 hover:-translate-y-1 duration-300 p-4 mb-16", children: (0, a.jsx)("p", { ref: t, className: "text-white text-md font-kanit", children: s && (0, a.jsx)(x(), { options: { delay: 30, strings: ["My name is Patrick, and I'm 15 years old. I'm a  student and a hobby developer in Fremont. I like to learn more tools to add to my skillset by making projects and games. My projects are displayed on github. I am most active on my Discord. If you want to collaborate anytime or ask any questions, please contact me there. "], loop: !1, autoStart: !0, deleteSpeed: 6048e5 } }) }) }),
+                                    (0, a.jsx)("div", { className: "bg-slate-900 self-center w-3/4 rounded-md overflow-hidden border-2 border-blue-700 hover:-translate-y-1 duration-300 p-4 mb-16", children: (0, a.jsx)("p", { ref: t, className: "text-white text-md font-kanit", children: s && (0, a.jsx)(x(), { options: { delay: 30, strings: ["Ctrl-Alt-Defeat is a [WIP]"], loop: !1, autoStart: !0, deleteSpeed: 6048e5 } }) }) }),
                                     (0, a.jsx)("h2", { className: "text-white font-semibold sm:text-2xl text-lg xl:px-0 px-8 font-kanit", children: "I'm currently learning a number of languages, frameworks and libraries." }),
                                     (0, a.jsxs)("ul", {
                                         className: "flex flex-row flex-wrap gap-2 mt-2 rounded-md w-fit xl:px-0 px-8",
@@ -256,7 +256,7 @@
                         let e = document.getElementById("projects");
                         e && e.scrollIntoView({ behavior: "smooth" });
                     };
-                return (0, a.jsxs)(a.Fragment, { children: [(0, a.jsxs)(i(), { children: [(0, a.jsx)("title", { children: "Patrick Zhou" }), (0, a.jsx)("meta", { name: "description", content: "Patrick's (aka SKRRRTT) personal site" }), (0, a.jsx)("meta", { property: "og:image", content: "https://r2.e-z.host/0a585a51-c22e-4d3e-804a-efc077a2d38c/lrzsis9d.jpg" }), (0, a.jsx)("meta", { property: "theme-color", content: "#17171a" }), (0, a.jsx)("meta", { name: "viewport", content: "width=device-width, initial-scale=1" }), (0, a.jsx)("link", { rel: "icon", href: "/favicon.ico" })] }), (0, a.jsx)(d, { clickScroll: h, clickScroll2: p, pageLoad: e }), (0, a.jsxs)("main", { className: "relative h-screen", children: [(0, a.jsx)(m, { pageLoad: e, titleColor: s }), (0, a.jsx)(w, { refID: r, inView: c }), (0, a.jsx)(j, {})] })] });
+                return (0, a.jsxs)(a.Fragment, { children: [(0, a.jsxs)(i(), { children: [(0, a.jsx)("title", { children: "Patrick Zhou" }), (0, a.jsx)("meta", { name: "description", content: "Patrick's (aka SKRRRTT) personal site" }), (0, a.jsx)("meta", { property: "og:image", content: "https://cdn.discordapp.com/attachments/1120770690702921819/1153563230409596999/image.png" }), (0, a.jsx)("meta", { property: "theme-color", content: "#17171a" }), (0, a.jsx)("meta", { name: "viewport", content: "width=device-width, initial-scale=1" }), (0, a.jsx)("link", { rel: "icon", href: "/favicon.ico" })] }), (0, a.jsx)(d, { clickScroll: h, clickScroll2: p, pageLoad: e }), (0, a.jsxs)("main", { className: "relative h-screen", children: [(0, a.jsx)(m, { pageLoad: e, titleColor: s }), (0, a.jsx)(w, { refID: r, inView: c }), (0, a.jsx)(j, {})] })] });
             }
         },
     },
