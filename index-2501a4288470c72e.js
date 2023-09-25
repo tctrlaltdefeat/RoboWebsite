@@ -162,7 +162,7 @@
                     children: (0, a.jsxs)("section", {
                         className: "relative bg-slate-950 pb-8",
                         children: [
-                            (0, a.jsx)("h1", { className: "text-white font-bold sm:text-6xl text-4xl font-kanit text-center pb-8", children: "A little about me." }),
+                            (0, a.jsx)("h1", { className: "text-white font-bold sm:text-6xl text-4xl font-kanit text-center pb-8", children: "A little about us." }),
                             (0, a.jsxs)("div", {
                                 className: "flex flex-col max-w-6xl w-full mx-auto ",
                                 children: [
